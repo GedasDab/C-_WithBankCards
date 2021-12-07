@@ -1,0 +1,10 @@
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Server1\bin\Debug\netCard Server.exe
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Server1\bin\Debug\netCard Server.pdb
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Server1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Server1\obj\Debug\netCard Server.exe
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Server1\obj\Debug\netCard Server.pdb
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Server1\bin\Debug\netCard Server.exe
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Server1\bin\Debug\netCard Server.pdb
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Server1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Server1\obj\Debug\netCard Server.exe
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Server1\obj\Debug\netCard Server.pdb

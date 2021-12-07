@@ -1,0 +1,14 @@
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.exe.config
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.exe
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.pdb
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Server_stub.dll
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\obj\Debug\netCard Client Console.exe
+c:\users\it sauga\documents\visual studio 2010\Projects\netCard Server1\netCard Client Console Fixed1\obj\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.exe.config
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\obj\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\obj\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.exe
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Client Console.pdb
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\bin\Debug\netCard Server_stub.dll
+C:\Users\IT sauga\Desktop\Projektas\netCard Server1\netCard Client Console Fixed1\obj\Debug\ResolveAssemblyReference.cache

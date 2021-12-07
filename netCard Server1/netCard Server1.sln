@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCard Server1", "netCard Server1\netCard Server1.csproj", "{6BCD9203-7F99-4EC1-9151-98BCC51EE8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netCard Client Console Fixed1", "netCard Client Console Fixed1\netCard Client Console Fixed1.csproj", "{32898703-59D1-41EF-8782-09B75980D116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCD9203-7F99-4EC1-9151-98BCC51EE8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCD9203-7F99-4EC1-9151-98BCC51EE8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCD9203-7F99-4EC1-9151-98BCC51EE8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCD9203-7F99-4EC1-9151-98BCC51EE8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32898703-59D1-41EF-8782-09B75980D116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32898703-59D1-41EF-8782-09B75980D116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32898703-59D1-41EF-8782-09B75980D116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32898703-59D1-41EF-8782-09B75980D116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
